@@ -51,7 +51,7 @@ Note: It's not important to measure everything out before you start this recipe.
 * Bake for about 1h -- 1h20, until a skewer come out clean. Remove and leave in
   the tin for half an hour before removing to a wire rack.
 
-## References
+
 
 [1]: http://www.bbcgoodfood.com/recipes/marrow-pecan-cake-maple-icing "Marrow & pecan cake with maple icing"
 
