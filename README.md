@@ -1,2 +1,3 @@
-# maxs-cookbook
+# Max's Cookbook
+
 Recipes with version control!
